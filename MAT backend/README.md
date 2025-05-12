@@ -1,8 +1,8 @@
-# 🌟 Info'Dore Asset Solution - Backend 🌟
+# 🌟  Municipal Asset Tracker - Backend 🌟
 
 ## 🚀 Introduction
 
-The backend of Info'Dore Asset Solution is designed to provide a robust and scalable infrastructure for managing municipal assets. It leverages modern web technologies to ensure secure, efficient, and reliable data handling, supporting the front end in delivering comprehensive asset management services.
+The backend of  Municipal Asset Tracker is designed to provide a robust and scalable infrastructure for managing municipal assets. It leverages modern web technologies to ensure secure, efficient, and reliable data handling, supporting the front end in delivering comprehensive asset management services.
 
 ## 🛠️ Tech Stack
 
